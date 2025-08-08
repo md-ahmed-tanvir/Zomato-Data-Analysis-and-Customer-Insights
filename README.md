@@ -26,7 +26,7 @@ This project aims to:
 4. Modify or extend the analysis based on your needs.
 
 ## Author
-Md Ahmed Tanvir
+Md. Tanvir Ahmed
 
 ---
 
